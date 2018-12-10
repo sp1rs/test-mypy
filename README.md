@@ -1,0 +1,2 @@
+# test-mypy
+mypy testing
